@@ -20,3 +20,5 @@ Temporalmente sólo para Windows, estoy trabajando para que funcione en Mac.
 Cualquier sugerencia es bien recibida
 
 Creado por @miancolrin
+
+DESCARGA: http://bit.ly/2kKRC6u
