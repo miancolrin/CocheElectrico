@@ -15,10 +15,12 @@ Con este programa se puede:
 -Calcular los kilómetros restantes que nos quedan
 
 
-Temporalmente sólo para Windows, estoy trabajando para que funcione en Mac.
-
 Cualquier sugerencia es bien recibida
 
 Creado por @miancolrin
 
-DESCARGA: http://bit.ly/2kKRC6u
+Versión UNIX: Para Mac y Linux
+
+DESCARGA WINDOWS: http://bit.ly/2kKRC6u
+
+DESCARGA UNIX: 
