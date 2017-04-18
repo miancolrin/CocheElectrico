@@ -23,4 +23,4 @@ Versión UNIX: Para Mac y Linux
 
 DESCARGA WINDOWS: http://bit.ly/2kKRC6u
 
-DESCARGA UNIX: 
+DESCARGA UNIX: http://bit.ly/2oJRaIR
