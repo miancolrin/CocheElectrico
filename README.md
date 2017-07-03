@@ -12,8 +12,6 @@ Con este programa se puede:
 
 -Calcular el coste de recorrer 100km
 
--Calcular los kilómetros restantes que nos quedan
-
 
 Cualquier sugerencia es bien recibida
 
