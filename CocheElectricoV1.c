@@ -3,6 +3,9 @@
 #       ES EL FUTURO         #
 ##############################
 
+VERSIÓN ORIGINAL
+HAY DISPONIBLE UNA VERSIÓN MÁS RECIENTE DE ESTE PROGRAMA
+
 A falta de herramientas para hacer cuentas sobre coches eléctricos he creado este pequeño programa.
 Con este programa se pueden hacer cálculos básicos sobre el vehículo eléctrico, como el coste de
 una recarga, el coste de recorrer 100km y el tiempo que va a tardar en cargarse por completo.
